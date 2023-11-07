@@ -1,6 +1,6 @@
 # LocalVPN
-A packet interceptor for Android built on top of VpnService
+
+A packet monitoring app based on Android's VPN Service
 
 License: Apache v2.0
 
-Early alpha, will eat your cat!
